@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574155942 source:c:\users\israfil\desktop\codeblocks files\girilen sayinin sayi basamagini bulan\main.c
+	<stdio.h>
+	<stdlib.h>
+

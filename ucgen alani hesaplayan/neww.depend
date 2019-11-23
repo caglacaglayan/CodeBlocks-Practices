@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570199168 source:c:\users\israfil\desktop\codeblocks files\neww\main.c
+	<stdio.h>
+	<stdlib.h>
+

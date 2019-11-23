@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1570366584 source:c:\users\israfil\desktop\new folder\diskriminat hesaplayan\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1570366584 source:c:\users\israfil\desktop\codeblocks files\diskriminat hesaplayan\main.c
+	<stdio.h>
+	<stdlib.h>
+

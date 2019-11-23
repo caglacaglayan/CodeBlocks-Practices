@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570721435 source:c:\users\israfil\desktop\codeblocks files\prog1ders\main.c
+	<stdio.h>
+	<stdlib.h>
+

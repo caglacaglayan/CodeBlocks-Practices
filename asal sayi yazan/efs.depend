@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569618564 source:c:\users\israfil\desktop\new folder\efs\main.c
+	<stdio.h>
+	<stdlib.h>
+

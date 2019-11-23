@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570629288 source:c:\users\israfil\desktop\codeblocks files\not hesaplayan\main.c
+	<stdio.h>
+	<stdlib.h>
+
